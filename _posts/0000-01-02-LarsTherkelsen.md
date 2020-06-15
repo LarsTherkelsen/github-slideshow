@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Nu ændrer jeg en linje
 Use the left arrow to go back!
